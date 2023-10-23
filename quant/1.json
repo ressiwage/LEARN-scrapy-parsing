@@ -1,0 +1,706 @@
+{
+  "props": {
+    "pageProps": {
+      "locale": "en-US",
+      "locales": [
+        "en-US",
+        "id-ID",
+        "es-AR",
+        "es-ES",
+        "es-MX",
+        "es-419",
+        "fil-PH",
+        "pt-BR",
+        "pt-PT",
+        "ru-RU",
+        "vi-VN",
+        "tr-TR",
+        "th-TH",
+        "kk-KZ",
+        "uk-UA",
+        "hi-IN",
+        "ja-JP",
+        "zh-TW",
+        "zh-CN",
+        "zh-MY",
+        "nl-NL",
+        "ar-SA",
+        "zh-HK",
+        "en-HK",
+        "pl-PL"
+      ],
+      "pageEntry": {
+        "title": "Announcements",
+        "system": {
+          "uid": "blt3beb61c8c0ab855a"
+        },
+        "description": "Be in the know on the latest happenings at Bybit \u2014 new products, our latest trading pairs and more!",
+        "page_seo": {
+          "title": "Bybit Announcements",
+          "description": "Be the first to get the news whenever something new emerges at Bybit \u2014 Upcoming features and changes, our latest trading pairs, DeFi products and mining programs.",
+          "canonical_url": "",
+          "keywords": [],
+          "imageConnection": {
+            "edges": []
+          }
+        },
+        "categoryConnection": {
+          "categories": [
+            {
+              "node": {
+                "label": "ALL",
+                "key": ""
+              }
+            },
+            {
+              "node": {
+                "label": "New Listings",
+                "key": "new_crypto"
+              }
+            },
+            {
+              "node": {
+                "label": "Latest Activities",
+                "key": "latest_activities"
+              }
+            },
+            {
+              "node": {
+                "label": "Latest Bybit News",
+                "key": "latest_bybit_news"
+              }
+            },
+            {
+              "node": {
+                "label": "Product Updates",
+                "key": "product_updates"
+              }
+            },
+            {
+              "node": {
+                "label": "New Fiat Listings",
+                "key": "new_fiat_listings"
+              }
+            },
+            {
+              "node": {
+                "label": "Maintenance Updates",
+                "key": "maintenance_updates"
+              }
+            },
+            {
+              "node": {
+                "label": "Delistings",
+                "key": "delistings"
+              }
+            },
+            {
+              "node": {
+                "label": "More",
+                "key": "other"
+              }
+            }
+          ]
+        },
+        "emailSubscriptionGroup": {
+          "title": "Daily Bits",
+          "headline": "Daily Crypto Market Movement at Your Fingertips.",
+          "description": "Be the first to get critical insights and analysis of the crypto world, subscribe now to our newsletter.",
+          "input_placeholder": "Enter your email address",
+          "button_text": "Subscribe",
+          "successful_text_title": "Thank you for subscribing!",
+          "successful_note": "You will now receive the latest news from Bybit Announcements.",
+          "email_subscription_categoryConnection": {
+            "edges": [
+              {
+                "node": {
+                  "title": "Bybit Announcement",
+                  "category_id": 1
+                }
+              }
+            ]
+          }
+        }
+      },
+      "articleDetail": {
+        "title": "ByVotes Chapter 17: The Results Are In!",
+        "description": "ByVotes Chapter 17: The Results Are In!",
+        "date": "2023-10-06T07:57:43.000Z",
+        "read_time": 1,
+        "url": "/article/byvotes-chapter-17-the-results-are-in--blta033922c03a02ff2/",
+        "whether_to_top": false,
+        "keywords": [
+          "ByVotes"
+        ],
+        "content": {
+          "json": {
+            "type": "doc",
+            "attrs": {},
+            "uid": "449ce05e20094d849397482573ff3538",
+            "children": [
+              {
+                "uid": "d2392fa5e11d4142bf9b3e945851baa9",
+                "type": "reference",
+                "attrs": {
+                  "display-type": "display",
+                  "asset-uid": "blt20b2a05941f138fe",
+                  "content-type-uid": "sys_assets",
+                  "asset-link": "https://images.contentstack.io/v3/assets/blt8ec5b78e9ea1d11d/blt20b2a05941f138fe/652907cfff3bbda8e3ad0ea5/EN_2309-T10390_ByVotes_1600x900.png",
+                  "asset-name": "EN_2309-T10390_ByVotes_1600x900.png",
+                  "asset-type": "image/png",
+                  "type": "asset",
+                  "class-name": "embedded-asset",
+                  "data-editor-type": "scrte",
+                  "class": "scrte_reference ",
+                  "data-type": "asset",
+                  "contenteditable": "false",
+                  "style": {},
+                  "redactor-attributes": {
+                    "position": "left"
+                  },
+                  "dir": "ltr"
+                },
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "attrs": {
+                  "style": {},
+                  "redactor-attributes": {},
+                  "dir": "ltr"
+                },
+                "uid": "03472e01a0e9484eb81a3ebba6212cbf",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "attrs": {
+                  "style": {},
+                  "redactor-attributes": {},
+                  "dir": "ltr"
+                },
+                "uid": "bbd0e2a3049b43c09ac78fa8b5fa0dc7",
+                "children": [
+                  {
+                    "text": "Thanks for participating in ByVotes Chapter 17. It was certainly an eye-opening experience for us to hear your voice through your votes, and we hope you had fun!"
+                  },
+                  {
+                    "text": "\n",
+                    "break": true
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "attrs": {
+                  "style": {},
+                  "redactor-attributes": {},
+                  "dir": "ltr"
+                },
+                "uid": "07865e97783b4e7bbfe6dd664a6596b1",
+                "children": [
+                  {
+                    "break": true,
+                    "text": "\n"
+                  },
+                  {
+                    "text": "The results are in and the winner is \u2026 (drumroll, please)"
+                  },
+                  {
+                    "text": "\n",
+                    "break": true
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "attrs": {
+                  "style": {},
+                  "redactor-attributes": {},
+                  "dir": "ltr"
+                },
+                "uid": "4c465b77de6349b995651418fb271423",
+                "children": [
+                  {
+                    "break": true,
+                    "text": "\n"
+                  },
+                  {
+                    "text": "Congratulations to all users who voted for "
+                  },
+                  {
+                    "text": "VEGA",
+                    "bold": true
+                  },
+                  {
+                    "text": " . We'll be airdropping the tokens to you as soon as possible."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "attrs": {
+                  "style": {},
+                  "redactor-attributes": {},
+                  "dir": "ltr"
+                },
+                "uid": "8f2bc05a657f494b93d0f9ec72695a32",
+                "children": [
+                  {
+                    "text": "\n\n",
+                    "break": true
+                  },
+                  {
+                    "text": "The trading pair, "
+                  },
+                  {
+                    "text": "VEGA/USDT,",
+                    "bold": true
+                  },
+                  {
+                    "text": " will be available on our Innovation Zone Trading platform from"
+                  },
+                  {
+                    "text": " Oct 13, 2023, 10AM UTC. ",
+                    "bold": true
+                  },
+                  {
+                    "text": "You will be able to trade VEGA/USDT with our trading bots!"
+                  },
+                  {
+                    "text": "\n",
+                    "break": true
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "attrs": {
+                  "style": {},
+                  "redactor-attributes": {},
+                  "dir": "ltr"
+                },
+                "uid": "b4fc9ddc18fe44a1ab367f1639edf851",
+                "children": [
+                  {
+                    "break": true,
+                    "text": "\n"
+                  },
+                  {
+                    "text": "Stay tuned for the next ByVotes Chapter!"
+                  }
+                ]
+              }
+            ],
+            "_version": 5
+          },
+          "embedded_itemsConnection": {
+            "edges": [
+              {
+                "node": {
+                  "title": "EN_2309-T10390_ByVotes_1600x900.png",
+                  "url": "https://images.contentstack.io/v3/assets/blt8ec5b78e9ea1d11d/blt20b2a05941f138fe/652907cfff3bbda8e3ad0ea5/EN_2309-T10390_ByVotes_1600x900.png",
+                  "description": null,
+                  "content_type": "image/png",
+                  "file_size": 66982,
+                  "filename": "EN_2309-T10390_ByVotes_1600x900.png",
+                  "system": {
+                    "content_type_uid": "sys_assets",
+                    "uid": "blt20b2a05941f138fe"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "campaign_id": "",
+        "categoryConnection": {
+          "edges": [
+            {
+              "node": {
+                "title": "Latest Activities",
+                "key": "latest_activities"
+              }
+            }
+          ]
+        },
+        "system": {
+          "content_type_uid": "article",
+          "uid": "blta033922c03a02ff2"
+        },
+        "entry": {
+          "uid": "blta033922c03a02ff2",
+          "_embedded_items": {
+            "entryKey": [
+              {
+                "uid": "blt20b2a05941f138fe",
+                "_content_type_uid": "sys_assets",
+                "title": "EN_2309-T10390_ByVotes_1600x900.png",
+                "url": "https://images.contentstack.io/v3/assets/blt8ec5b78e9ea1d11d/blt20b2a05941f138fe/652907cfff3bbda8e3ad0ea5/EN_2309-T10390_ByVotes_1600x900.png",
+                "description": null,
+                "content_type": "image/png",
+                "file_size": 66982,
+                "filename": "EN_2309-T10390_ByVotes_1600x900.png",
+                "system": {
+                  "content_type_uid": "sys_assets",
+                  "uid": "blt20b2a05941f138fe"
+                }
+              }
+            ]
+          },
+          "entryKey": {
+            "type": "doc",
+            "attrs": {},
+            "uid": "449ce05e20094d849397482573ff3538",
+            "children": [
+              {
+                "uid": "d2392fa5e11d4142bf9b3e945851baa9",
+                "type": "reference",
+                "attrs": {
+                  "display-type": "display",
+                  "asset-uid": "blt20b2a05941f138fe",
+                  "content-type-uid": "sys_assets",
+                  "asset-link": "https://images.contentstack.io/v3/assets/blt8ec5b78e9ea1d11d/blt20b2a05941f138fe/652907cfff3bbda8e3ad0ea5/EN_2309-T10390_ByVotes_1600x900.png",
+                  "asset-name": "EN_2309-T10390_ByVotes_1600x900.png",
+                  "asset-type": "image/png",
+                  "type": "asset",
+                  "class-name": "embedded-asset",
+                  "data-editor-type": "scrte",
+                  "class": "scrte_reference ",
+                  "data-type": "asset",
+                  "contenteditable": "false",
+                  "style": {},
+                  "redactor-attributes": {
+                    "position": "left"
+                  },
+                  "dir": "ltr"
+                },
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "attrs": {
+                  "style": {},
+                  "redactor-attributes": {},
+                  "dir": "ltr"
+                },
+                "uid": "03472e01a0e9484eb81a3ebba6212cbf",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "attrs": {
+                  "style": {},
+                  "redactor-attributes": {},
+                  "dir": "ltr"
+                },
+                "uid": "bbd0e2a3049b43c09ac78fa8b5fa0dc7",
+                "children": [
+                  {
+                    "text": "Thanks for participating in ByVotes Chapter 17. It was certainly an eye-opening experience for us to hear your voice through your votes, and we hope you had fun!"
+                  },
+                  {
+                    "text": "\n",
+                    "break": true
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "attrs": {
+                  "style": {},
+                  "redactor-attributes": {},
+                  "dir": "ltr"
+                },
+                "uid": "07865e97783b4e7bbfe6dd664a6596b1",
+                "children": [
+                  {
+                    "break": true,
+                    "text": "\n"
+                  },
+                  {
+                    "text": "The results are in and the winner is \u2026 (drumroll, please)"
+                  },
+                  {
+                    "text": "\n",
+                    "break": true
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "attrs": {
+                  "style": {},
+                  "redactor-attributes": {},
+                  "dir": "ltr"
+                },
+                "uid": "4c465b77de6349b995651418fb271423",
+                "children": [
+                  {
+                    "break": true,
+                    "text": "\n"
+                  },
+                  {
+                    "text": "Congratulations to all users who voted for "
+                  },
+                  {
+                    "text": "VEGA",
+                    "bold": true
+                  },
+                  {
+                    "text": " . We'll be airdropping the tokens to you as soon as possible."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "attrs": {
+                  "style": {},
+                  "redactor-attributes": {},
+                  "dir": "ltr"
+                },
+                "uid": "8f2bc05a657f494b93d0f9ec72695a32",
+                "children": [
+                  {
+                    "text": "\n\n",
+                    "break": true
+                  },
+                  {
+                    "text": "The trading pair, "
+                  },
+                  {
+                    "text": "VEGA/USDT,",
+                    "bold": true
+                  },
+                  {
+                    "text": " will be available on our Innovation Zone Trading platform from"
+                  },
+                  {
+                    "text": " Oct 13, 2023, 10AM UTC. ",
+                    "bold": true
+                  },
+                  {
+                    "text": "You will be able to trade VEGA/USDT with our trading bots!"
+                  },
+                  {
+                    "text": "\n",
+                    "break": true
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "attrs": {
+                  "style": {},
+                  "redactor-attributes": {},
+                  "dir": "ltr"
+                },
+                "uid": "b4fc9ddc18fe44a1ab367f1639edf851",
+                "children": [
+                  {
+                    "break": true,
+                    "text": "\n"
+                  },
+                  {
+                    "text": "Stay tuned for the next ByVotes Chapter!"
+                  }
+                ]
+              }
+            ],
+            "_version": 5
+          }
+        },
+        "locale": "en-us"
+      },
+      "recommendData": [],
+      "articleUID": "blta033922c03a02ff2",
+      "articleObjectID": "article.blta033922c03a02ff2",
+      "theme": "light",
+      "hrefFrom": "normal",
+      "articleUrls": [
+        {
+          "locale": "en-US",
+          "url": "/article/byvotes-chapter-17-the-results-are-in--blta033922c03a02ff2/"
+        },
+        {
+          "locale": "id-ID",
+          "url": "/article/byvotes-chapter-17-the-results-are-in--blta033922c03a02ff2/"
+        },
+        {
+          "locale": "es-ES",
+          "url": "/article/ronda-17-de-byvotes-ya-tenemos-los-resultados--blta033922c03a02ff2/"
+        },
+        {
+          "locale": "ru-RU",
+          "url": "/article/byvotes-chapter-17-the-results-are-in--blta033922c03a02ff2/"
+        },
+        {
+          "locale": "kk-KZ",
+          "url": "/article/byvotes-chapter-17-the-results-are-in--blta033922c03a02ff2/"
+        },
+        {
+          "locale": "uk-UA",
+          "url": "/article/byvotes-chapter-17-the-results-are-in--blta033922c03a02ff2/"
+        }
+      ],
+      "host": "announcements.bybit.com"
+    },
+    "headerFooterEntry": {
+      "title": "Bybit Announcements",
+      "header_link": [
+        {
+          "href": "https://www.bybit.com/fiat/trade/express/home",
+          "title": "Buy Crypto"
+        },
+        {
+          "href": "https://www.bybit.com/trade/spot",
+          "title": "Spot"
+        },
+        {
+          "href": "https://www.bybit.com/trade/inverse/BTCUSD",
+          "title": "Derivatives"
+        },
+        {
+          "href": "https://www.bybit.com/en-US/web3",
+          "title": "Web3"
+        }
+      ],
+      "header_link_addon": [
+        {
+          "tag": ""
+        },
+        {
+          "tag": ""
+        }
+      ],
+      "footer_bottom_link": [
+        {
+          "href": "https://www.bybit.com/app/terms-service/information",
+          "title": "Terms of Service"
+        },
+        {
+          "href": "https://www.bybit.com/app/terms-service/privacyPolicy",
+          "title": "Privacy Policy"
+        },
+        {
+          "href": "https://blog.bybit.com/feed/",
+          "title": "RSS Feed"
+        }
+      ],
+      "social_link": [
+        {
+          "href": "https://www.facebook.com/Bybit",
+          "title": "Facebook"
+        },
+        {
+          "href": "https://twitter.com/Bybit_Official",
+          "title": "Twitter"
+        },
+        {
+          "href": "https://www.instagram.com/bybit_official/",
+          "title": "Instagram"
+        },
+        {
+          "href": "https://www.youtube.com/c/Bybit",
+          "title": "YouTube"
+        },
+        {
+          "href": "https://www.linkedin.com/company/bybitexchange/",
+          "title": "LinkedIn"
+        },
+        {
+          "href": "https://t.me/BybitEnglish",
+          "title": "Telegram"
+        },
+        {
+          "href": "https://www.tiktok.com/@bybit_official",
+          "title": "TikTok"
+        },
+        {
+          "href": "https://www.reddit.com/r/Bybit/",
+          "title": "Reddit"
+        },
+        {
+          "href": "https://medium.com/bybit",
+          "title": "Medium"
+        }
+      ],
+      "email_subscribe_group": {
+        "title": "",
+        "headline": "",
+        "description": "Be the first to get critical insights and analysis of the crypto world, subscribe now to our newsletter.",
+        "input_placeholder": "Enter your email address",
+        "button_text": "Subscribe",
+        "successful_text_title": "Thank you for subscribing!",
+        "successful_note": "You will now receive the latest news from Bybit Announcements.",
+        "email_subscription_categoryConnection": {
+          "edges": [
+            {
+              "node": {
+                "title": "Bybit Announcement",
+                "category_id": 1
+              }
+            }
+          ]
+        }
+      },
+      "copy_right_claim": "\u00a9 2018-2023 Bybit.com. All rights reserved."
+    },
+    "__N_SSP": true
+  },
+  "page": "/article/[articleTitle]",
+  "query": {
+    "articleTitle": "byvotes-chapter-17-the-results-are-in--blta033922c03a02ff2"
+  },
+  "buildId": "Szi_NnfksY9dP4Yitz7Qr",
+  "isFallback": false,
+  "gssp": true,
+  "customServer": true,
+  "appGip": true,
+  "locale": "en-US",
+  "locales": [
+    "en-US",
+    "id-ID",
+    "es-AR",
+    "es-ES",
+    "es-MX",
+    "es-419",
+    "fil-PH",
+    "pt-BR",
+    "pt-PT",
+    "ru-RU",
+    "vi-VN",
+    "tr-TR",
+    "th-TH",
+    "kk-KZ",
+    "uk-UA",
+    "hi-IN",
+    "ja-JP",
+    "zh-TW",
+    "zh-CN",
+    "zh-MY",
+    "nl-NL",
+    "ar-SA",
+    "zh-HK",
+    "en-HK",
+    "pl-PL"
+  ],
+  "defaultLocale": "en-US",
+  "scriptLoader": []
+}
